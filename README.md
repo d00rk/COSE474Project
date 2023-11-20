@@ -1,9 +1,9 @@
 # COSE474Project #
 Final Project of COSE474, Korea University
 
-## Fine tuning Segment Anything for semantic Segmentation ##
-Fine tune Segment Anything model of Meta AI for semantic segmentation  
-Dataset: resized Cityscapes (256*512)
+## Fine tuning Segment Anything for medical image ##
+Fine tune Segment Anything model of Meta AI for medical image  
+Dataset: breast-cancer (hugging face: https://huggingface.co/datasets/nielsr/breast-cancer)
 
 ### Requirements ###
 environments: colab pro (V100)  
