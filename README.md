@@ -3,7 +3,7 @@ Final Project of COSE474, Korea University
 
 ## Fine tuning Segment Anything for medical image ##
 Fine tune Segment Anything model of Meta AI for medical image  
-Dataset: breast-cancer (hugging face: https://huggingface.co/datasets/nielsr/breast-cancer)
+Dataset: 
 
 ### Requirements ###
 environments: colab pro (V100)  
