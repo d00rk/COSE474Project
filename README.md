@@ -1,4 +1,5 @@
-<div align="center>
+<div align="center">
+  
 # COSE474Project #
 Final Project of COSE474, Korea University
 
@@ -11,4 +12,5 @@ environments: colab pro (V100)
 python 3.10.12  
 numpy 1.23.5  
 pytorch 2.1.0
+
 </div>
