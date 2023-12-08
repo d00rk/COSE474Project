@@ -14,7 +14,7 @@ numpy 1.23.5
 pytorch 2.1.0
 
 ### Reference ###
-MedSAM (https://github.com/bowang-lab/MedSAM)
+MedSAM (https://github.com/bowang-lab/MedSAM)  
 hugging face transforemrs (https://huggingface.co/docs/transformers/model_doc/sam)
 
 </div>
