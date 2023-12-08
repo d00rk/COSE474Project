@@ -15,6 +15,6 @@ pytorch 2.1.0
 
 ### Reference ###
 MedSAM (https://github.com/bowang-lab/MedSAM)  
-hugging face transforemrs (https://huggingface.co/docs/transformers/model_doc/sam)
+hugging face transformers (https://huggingface.co/docs/transformers/model_doc/sam)
 
 </div>
